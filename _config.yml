@@ -1,7 +1,8 @@
+title: Jonathon Racz
+description: Stuff I've done
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-
 theme: jekyll-theme-tactile
