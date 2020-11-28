@@ -1,4 +1,4 @@
-I am a software engineer with a focus on interactive multimedia applications. Listed below are the projects I've published on GitHub, with some background on the context and technologies used.
+I am a software engineer with a focus on interactive multimedia applications. Listed below are a selection of the projects I've published on [my GitHub page](https://github.com/jonathonracz).
 
 # Engineering Projects
 
