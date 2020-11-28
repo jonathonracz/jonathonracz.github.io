@@ -1,8 +1,4 @@
-# Jonathon Racz
-
-_A slightly disorganized collection of my work._
-
-# Portfolio (Code)
+# Engineering Projects
 
 ## [HarmonAIze](https://github.com/jonathonracz/harmonaize)
 
@@ -87,7 +83,7 @@ Boost's circular_buffer module converted to use all C++11 STL primitives, making
 - _Time: 1 day_
 - _Languages: C++_
 
-# Portfolio (3D)
+# Art Projects
 
 ## GoldenEye: Source
 
