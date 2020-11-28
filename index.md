@@ -1,3 +1,5 @@
+I am a software engineer with a focus on interactive multimedia applications. Listed below are the projects I've published on GitHub, with some background on the context and technologies used.
+
 # Engineering Projects
 
 ## [HarmonAIze](https://github.com/jonathonracz/harmonaize)
