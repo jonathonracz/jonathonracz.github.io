@@ -52,7 +52,7 @@ A Mac/Windows/Linux VST/AU audio plugin for playing audio in test environments. 
 
 - _Time: 2 days_
 - _Languages: C++_
-- _Libraries: [JUCE](https://juce.com/)
+- _Libraries: [JUCE](https://juce.com/)_
 
 ## [MIDISender](https://github.com/jonathonracz/MIDISender)
 
@@ -62,7 +62,7 @@ A cross-platform utility for sending arbitrary MIDI messages. Used for debugging
 
 - _Time: 1 day_
 - _Languages: C++_
-- _Libraries: [JUCE](https://github.com/juce-framework/JUCE)
+- _Libraries: [JUCE](https://github.com/juce-framework/JUCE)_
 
 ## [cos-tools](https://github.com/jonathonracz/cos-tools)
 
